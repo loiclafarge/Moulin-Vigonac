@@ -1,0 +1,1389 @@
+{
+ "version": 1,
+ "title": "Moulin de Vigonac",
+ "devis": "10-26.2",
+ "updatedAt": "2026-10-26T08:26:16.747Z",
+ "end": "2027-03-03",
+ "tasks": [
+  {
+   "ref": "1.1",
+   "family": "1",
+   "familyLabel": "Identité visuelle et charte",
+   "label": "Lancement et atelier vision",
+   "order": 0,
+   "days": 1,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-11-03",
+    "2026-11-04"
+   ],
+   "c": null
+  },
+  {
+   "ref": "1.2",
+   "family": "1",
+   "familyLabel": "Identité visuelle et charte",
+   "label": "Analyse et axes créatifs",
+   "order": 1,
+   "days": 1,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-11-04",
+    "2026-11-04"
+   ],
+   "c": null
+  },
+  {
+   "ref": "1.3",
+   "family": "1",
+   "familyLabel": "Identité visuelle et charte",
+   "label": "Deux pistes d'identité",
+   "order": 2,
+   "days": 5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-11-05",
+    "2026-11-12"
+   ],
+   "c": null
+  },
+  {
+   "ref": "1.4",
+   "family": "1",
+   "familyLabel": "Identité visuelle et charte",
+   "label": "Développement de la piste retenue",
+   "order": 3,
+   "days": 3,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-11-23",
+    "2026-11-25"
+   ],
+   "c": [
+    "2026-12-15",
+    "2026-12-16"
+   ]
+  },
+  {
+   "ref": "1.5",
+   "family": "1",
+   "familyLabel": "Identité visuelle et charte",
+   "label": "Logo : déclinaisons et règles",
+   "order": 4,
+   "days": 1,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-11-25",
+    "2026-11-26"
+   ],
+   "c": [
+    "2026-12-16",
+    "2026-12-16"
+   ]
+  },
+  {
+   "ref": "1.6",
+   "family": "1",
+   "familyLabel": "Identité visuelle et charte",
+   "label": "Signatures des lieux",
+   "order": 5,
+   "days": 2,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-16",
+    "2026-12-18"
+   ],
+   "c": [
+    "2027-01-25",
+    "2027-01-25"
+   ]
+  },
+  {
+   "ref": "1.7",
+   "family": "1",
+   "familyLabel": "Identité visuelle et charte",
+   "label": "Pictogrammes (20)",
+   "order": 6,
+   "days": 1.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-11-26",
+    "2026-11-27"
+   ],
+   "c": [
+    "2026-12-16",
+    "2026-12-16"
+   ]
+  },
+  {
+   "ref": "1.8",
+   "family": "1",
+   "familyLabel": "Identité visuelle et charte",
+   "label": "Charte graphique (30 p.)",
+   "order": 7,
+   "days": 2.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-18",
+    "2026-12-22"
+   ],
+   "c": [
+    "2027-01-25",
+    "2027-01-25"
+   ]
+  },
+  {
+   "ref": "A.1",
+   "family": "A",
+   "familyLabel": "Signalétique extérieure",
+   "label": "Principes signalétiques",
+   "order": 8,
+   "days": 1,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-11-27",
+    "2026-11-30"
+   ],
+   "c": [
+    "2026-12-23",
+    "2026-12-23"
+   ]
+  },
+  {
+   "ref": "A.2",
+   "family": "A",
+   "familyLabel": "Signalétique extérieure",
+   "label": "Entrée : enseigne, totem, façade",
+   "order": 9,
+   "days": 1.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-11-30",
+    "2026-12-01"
+   ],
+   "c": [
+    "2026-12-23",
+    "2026-12-23"
+   ]
+  },
+  {
+   "ref": "A.3",
+   "family": "A",
+   "familyLabel": "Signalétique extérieure",
+   "label": "Accès : modèle",
+   "order": 10,
+   "days": 0.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-01",
+    "2026-12-01"
+   ],
+   "c": [
+    "2026-12-23",
+    "2026-12-23"
+   ]
+  },
+  {
+   "ref": "A.4",
+   "family": "A",
+   "familyLabel": "Signalétique extérieure",
+   "label": "Accès : 8 panneaux",
+   "order": 11,
+   "days": 0.8,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-01",
+    "2026-12-02"
+   ],
+   "c": [
+    "2026-12-23",
+    "2026-12-23"
+   ]
+  },
+  {
+   "ref": "A.5",
+   "family": "A",
+   "familyLabel": "Signalétique extérieure",
+   "label": "Orientation : modèle",
+   "order": 12,
+   "days": 0.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-02",
+    "2026-12-02"
+   ],
+   "c": [
+    "2026-12-23",
+    "2026-12-23"
+   ]
+  },
+  {
+   "ref": "A.6",
+   "family": "A",
+   "familyLabel": "Signalétique extérieure",
+   "label": "Orientation : 12 panneaux",
+   "order": 13,
+   "days": 1.2,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-02",
+    "2026-12-03"
+   ],
+   "c": [
+    "2026-12-23",
+    "2027-01-04"
+   ]
+  },
+  {
+   "ref": "A.7",
+   "family": "A",
+   "familyLabel": "Signalétique extérieure",
+   "label": "Plan illustré",
+   "order": 14,
+   "days": 3,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-03",
+    "2026-12-08"
+   ],
+   "c": [
+    "2027-01-04",
+    "2027-01-04"
+   ]
+  },
+  {
+   "ref": "B.1",
+   "family": "B",
+   "familyLabel": "Signalétique intérieure",
+   "label": "Plaques de chambres : modèle",
+   "order": 15,
+   "days": 0.25,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-08",
+    "2026-12-08"
+   ],
+   "c": [
+    "2027-01-04",
+    "2027-01-04"
+   ]
+  },
+  {
+   "ref": "B.2",
+   "family": "B",
+   "familyLabel": "Signalétique intérieure",
+   "label": "30 plaques de chambres",
+   "order": 16,
+   "days": 0.3,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-08",
+    "2026-12-09"
+   ],
+   "c": [
+    "2027-01-04",
+    "2027-01-04"
+   ]
+  },
+  {
+   "ref": "B.3",
+   "family": "B",
+   "familyLabel": "Signalétique intérieure",
+   "label": "Identification des espaces : modèle",
+   "order": 17,
+   "days": 0.25,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-09",
+    "2026-12-09"
+   ],
+   "c": [
+    "2027-01-04",
+    "2027-01-04"
+   ]
+  },
+  {
+   "ref": "B.4",
+   "family": "B",
+   "familyLabel": "Signalétique intérieure",
+   "label": "15 plaques d'espaces",
+   "order": 18,
+   "days": 0.75,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-09",
+    "2026-12-09"
+   ],
+   "c": [
+    "2027-01-04",
+    "2027-01-05"
+   ]
+  },
+  {
+   "ref": "B.5",
+   "family": "B",
+   "familyLabel": "Signalétique intérieure",
+   "label": "Plaques spa et cabines",
+   "order": 19,
+   "days": 0.38,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-09",
+    "2026-12-10"
+   ],
+   "c": [
+    "2027-01-05",
+    "2027-01-05"
+   ]
+  },
+  {
+   "ref": "B.6",
+   "family": "B",
+   "familyLabel": "Signalétique intérieure",
+   "label": "Consignes : modèle",
+   "order": 20,
+   "days": 0.38,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-10",
+    "2026-12-10"
+   ],
+   "c": [
+    "2027-01-05",
+    "2027-01-05"
+   ]
+  },
+  {
+   "ref": "B.7",
+   "family": "B",
+   "familyLabel": "Signalétique intérieure",
+   "label": "4 panneaux de consignes",
+   "order": 21,
+   "days": 0.4,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-10",
+    "2026-12-10"
+   ],
+   "c": [
+    "2027-01-05",
+    "2027-01-05"
+   ]
+  },
+  {
+   "ref": "C.1",
+   "family": "C",
+   "familyLabel": "Réception, conciergerie, papeterie",
+   "label": "Carte-clé et pochette",
+   "order": 22,
+   "days": 0.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-22",
+    "2026-12-22"
+   ],
+   "c": [
+    "2027-01-25",
+    "2027-01-25"
+   ]
+  },
+  {
+   "ref": "C.2",
+   "family": "C",
+   "familyLabel": "Réception, conciergerie, papeterie",
+   "label": "Carte Wi-Fi, QR, plan, horaires",
+   "order": 23,
+   "days": 0.25,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-22",
+    "2027-01-05"
+   ],
+   "c": [
+    "2027-01-26",
+    "2027-01-26"
+   ]
+  },
+  {
+   "ref": "C.3",
+   "family": "C",
+   "familyLabel": "Réception, conciergerie, papeterie",
+   "label": "Cartes de visite : modèle",
+   "order": 24,
+   "days": 0.25,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-05",
+    "2027-01-05"
+   ],
+   "c": [
+    "2027-01-26",
+    "2027-01-26"
+   ]
+  },
+  {
+   "ref": "C.4",
+   "family": "C",
+   "familyLabel": "Réception, conciergerie, papeterie",
+   "label": "Cartes de visite : 3 noms",
+   "order": 25,
+   "days": 0.08,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-05",
+    "2027-01-05"
+   ],
+   "c": [
+    "2027-01-26",
+    "2027-01-26"
+   ]
+  },
+  {
+   "ref": "C.5",
+   "family": "C",
+   "familyLabel": "Réception, conciergerie, papeterie",
+   "label": "Papeterie",
+   "order": 26,
+   "days": 1,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-05",
+    "2027-01-06"
+   ],
+   "c": [
+    "2027-01-26",
+    "2027-01-26"
+   ]
+  },
+  {
+   "ref": "C.6",
+   "family": "C",
+   "familyLabel": "Réception, conciergerie, papeterie",
+   "label": "4 cartes de correspondance",
+   "order": 27,
+   "days": 1,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-06",
+    "2027-01-07"
+   ],
+   "c": [
+    "2027-01-26",
+    "2027-01-26"
+   ]
+  },
+  {
+   "ref": "C.7",
+   "family": "C",
+   "familyLabel": "Réception, conciergerie, papeterie",
+   "label": "Carte cadeau et pochette",
+   "order": 28,
+   "days": 0.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-07",
+    "2027-01-07"
+   ],
+   "c": [
+    "2027-01-26",
+    "2027-01-26"
+   ]
+  },
+  {
+   "ref": "D.1",
+   "family": "D",
+   "familyLabel": "Chambres et housekeeping",
+   "label": "Carte de bienvenue et histoire",
+   "order": 29,
+   "days": 0.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-07",
+    "2027-01-07"
+   ],
+   "c": [
+    "2027-01-26",
+    "2027-01-26"
+   ]
+  },
+  {
+   "ref": "D.2",
+   "family": "D",
+   "familyLabel": "Chambres et housekeeping",
+   "label": "Guide de chambre : gabarit et couverture",
+   "order": 30,
+   "days": 1,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-07",
+    "2027-01-08"
+   ],
+   "c": [
+    "2027-01-26",
+    "2027-01-26"
+   ]
+  },
+  {
+   "ref": "D.3",
+   "family": "D",
+   "familyLabel": "Chambres et housekeeping",
+   "label": "Guide de chambre : 12 pages",
+   "order": 31,
+   "days": 2.4,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-08",
+    "2027-01-12"
+   ],
+   "c": [
+    "2027-01-26",
+    "2027-01-27"
+   ]
+  },
+  {
+   "ref": "D.4",
+   "family": "D",
+   "familyLabel": "Chambres et housekeeping",
+   "label": "5 cartes d'information",
+   "order": 32,
+   "days": 0.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-12",
+    "2027-01-13"
+   ],
+   "c": [
+    "2027-01-27",
+    "2027-01-27"
+   ]
+  },
+  {
+   "ref": "D.5",
+   "family": "D",
+   "familyLabel": "Chambres et housekeeping",
+   "label": "Accroche-porte",
+   "order": 33,
+   "days": 0.25,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-13",
+    "2027-01-13"
+   ],
+   "c": [
+    "2027-01-27",
+    "2027-01-27"
+   ]
+  },
+  {
+   "ref": "D.6",
+   "family": "D",
+   "familyLabel": "Chambres et housekeeping",
+   "label": "3 cartes housekeeping",
+   "order": 34,
+   "days": 0.3,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-13",
+    "2027-01-13"
+   ],
+   "c": [
+    "2027-01-27",
+    "2027-01-27"
+   ]
+  },
+  {
+   "ref": "D.7",
+   "family": "D",
+   "familyLabel": "Chambres et housekeeping",
+   "label": "3 supports minibar, room service",
+   "order": 35,
+   "days": 0.45,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-13",
+    "2027-01-13"
+   ],
+   "c": [
+    "2027-01-27",
+    "2027-01-27"
+   ]
+  },
+  {
+   "ref": "E.1",
+   "family": "E",
+   "familyLabel": "Restaurant et petit-déjeuner",
+   "label": "Menus déjeuner, dîner, dégustation",
+   "order": 36,
+   "days": 1.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-03",
+    "2027-02-04"
+   ],
+   "c": [
+    "2027-02-25",
+    "2027-02-25"
+   ]
+  },
+  {
+   "ref": "E.2",
+   "family": "E",
+   "familyLabel": "Restaurant et petit-déjeuner",
+   "label": "Cartes vins, cocktails, boissons",
+   "order": 37,
+   "days": 1,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-04",
+    "2027-02-05"
+   ],
+   "c": [
+    "2027-02-25",
+    "2027-02-25"
+   ]
+  },
+  {
+   "ref": "E.3",
+   "family": "E",
+   "familyLabel": "Restaurant et petit-déjeuner",
+   "label": "Porte-menu et porte-addition",
+   "order": 38,
+   "days": 0.38,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-05",
+    "2027-02-05"
+   ],
+   "c": [
+    "2027-02-25",
+    "2027-02-26"
+   ]
+  },
+  {
+   "ref": "E.4",
+   "family": "E",
+   "familyLabel": "Restaurant et petit-déjeuner",
+   "label": "Menus événementiels",
+   "order": 39,
+   "days": 0.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-05",
+    "2027-02-08"
+   ],
+   "c": [
+    "2027-02-26",
+    "2027-02-26"
+   ]
+  },
+  {
+   "ref": "E.5",
+   "family": "E",
+   "familyLabel": "Restaurant et petit-déjeuner",
+   "label": "Étiquettes buffet",
+   "order": 40,
+   "days": 0.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-08",
+    "2027-02-08"
+   ],
+   "c": [
+    "2027-02-26",
+    "2027-02-26"
+   ]
+  },
+  {
+   "ref": "E.6",
+   "family": "E",
+   "familyLabel": "Restaurant et petit-déjeuner",
+   "label": "Sous-verres et serviettes",
+   "order": 41,
+   "days": 0.38,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-08",
+    "2027-02-08"
+   ],
+   "c": [
+    "2027-02-26",
+    "2027-02-26"
+   ]
+  },
+  {
+   "ref": "F.1",
+   "family": "F",
+   "familyLabel": "Guinguette, bar, spa, activités",
+   "label": "Menus guinguette et bar",
+   "order": 42,
+   "days": 1,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-08",
+    "2027-02-09"
+   ],
+   "c": [
+    "2027-02-26",
+    "2027-02-26"
+   ]
+  },
+  {
+   "ref": "F.2",
+   "family": "F",
+   "familyLabel": "Guinguette, bar, spa, activités",
+   "label": "Cartes cocktails, vins, snacking",
+   "order": 43,
+   "days": 0.75,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-09",
+    "2027-02-10"
+   ],
+   "c": [
+    "2027-02-26",
+    "2027-02-26"
+   ]
+  },
+  {
+   "ref": "F.3",
+   "family": "F",
+   "familyLabel": "Guinguette, bar, spa, activités",
+   "label": "Affiche de programmation",
+   "order": 44,
+   "days": 0.75,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-10",
+    "2027-02-10"
+   ],
+   "c": [
+    "2027-02-26",
+    "2027-02-26"
+   ]
+  },
+  {
+   "ref": "F.4",
+   "family": "F",
+   "familyLabel": "Guinguette, bar, spa, activités",
+   "label": "Sous-verres et serviettes",
+   "order": 45,
+   "days": 0.25,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-10",
+    "2027-02-11"
+   ],
+   "c": [
+    "2027-02-26",
+    "2027-02-26"
+   ]
+  },
+  {
+   "ref": "F.5",
+   "family": "F",
+   "familyLabel": "Guinguette, bar, spa, activités",
+   "label": "Carte des soins",
+   "order": 46,
+   "days": 1,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-18",
+    "2027-01-18"
+   ],
+   "c": [
+    "2027-02-23",
+    "2027-02-23"
+   ]
+  },
+  {
+   "ref": "F.6",
+   "family": "F",
+   "familyLabel": "Guinguette, bar, spa, activités",
+   "label": "Brochure spa : conception et couverture",
+   "order": 47,
+   "days": 1.25,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-18",
+    "2027-01-19"
+   ],
+   "c": [
+    "2027-02-23",
+    "2027-02-23"
+   ]
+  },
+  {
+   "ref": "F.7",
+   "family": "F",
+   "familyLabel": "Guinguette, bar, spa, activités",
+   "label": "Brochure spa : 8 pages",
+   "order": 48,
+   "days": 2,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-19",
+    "2027-01-21"
+   ],
+   "c": [
+    "2027-02-23",
+    "2027-02-23"
+   ]
+  },
+  {
+   "ref": "F.8",
+   "family": "F",
+   "familyLabel": "Guinguette, bar, spa, activités",
+   "label": "Carte cadeau spa",
+   "order": 49,
+   "days": 0.25,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-21",
+    "2027-01-21"
+   ],
+   "c": [
+    "2027-02-23",
+    "2027-02-23"
+   ]
+  },
+  {
+   "ref": "F.9",
+   "family": "F",
+   "familyLabel": "Guinguette, bar, spa, activités",
+   "label": "Présentation des marques de soins",
+   "order": 50,
+   "days": 0.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-21",
+    "2027-01-21"
+   ],
+   "c": [
+    "2027-02-23",
+    "2027-02-23"
+   ]
+  },
+  {
+   "ref": "F.10",
+   "family": "F",
+   "familyLabel": "Guinguette, bar, spa, activités",
+   "label": "Signalétique et consignes spa",
+   "order": 51,
+   "days": 0.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-22",
+    "2027-01-22"
+   ],
+   "c": [
+    "2027-02-24",
+    "2027-02-24"
+   ]
+  },
+  {
+   "ref": "F.11",
+   "family": "F",
+   "familyLabel": "Guinguette, bar, spa, activités",
+   "label": "Piscines et padel : 4 panneaux",
+   "order": 52,
+   "days": 0.4,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-11",
+    "2027-02-11"
+   ],
+   "c": [
+    "2027-02-26",
+    "2027-02-26"
+   ]
+  },
+  {
+   "ref": "F.12",
+   "family": "F",
+   "familyLabel": "Guinguette, bar, spa, activités",
+   "label": "Voiturette",
+   "order": 53,
+   "days": 0.5,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-11",
+    "2027-02-11"
+   ],
+   "c": [
+    "2027-02-26",
+    "2027-03-01"
+   ]
+  },
+  {
+   "ref": "G.1",
+   "family": "G",
+   "familyLabel": "Commercial et digital",
+   "label": "Brochure : conception et couverture",
+   "order": 54,
+   "days": 2,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-22",
+    "2027-01-28"
+   ],
+   "c": [
+    "2027-02-24",
+    "2027-02-24"
+   ]
+  },
+  {
+   "ref": "G.2",
+   "family": "G",
+   "familyLabel": "Commercial et digital",
+   "label": "Brochure : 12 pages",
+   "order": 55,
+   "days": 3,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-28",
+    "2027-02-02"
+   ],
+   "c": [
+    "2027-02-24",
+    "2027-02-25"
+   ]
+  },
+  {
+   "ref": "G.3",
+   "family": "G",
+   "familyLabel": "Commercial et digital",
+   "label": "Présentation commerciale",
+   "order": 56,
+   "days": 2,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-10",
+    "2026-12-14"
+   ],
+   "c": [
+    "2027-01-13",
+    "2027-01-14"
+   ]
+  },
+  {
+   "ref": "G.4",
+   "family": "G",
+   "familyLabel": "Commercial et digital",
+   "label": "Fiche privatisation",
+   "order": 57,
+   "days": 0.75,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-02",
+    "2027-02-02"
+   ],
+   "c": [
+    "2027-02-25",
+    "2027-02-25"
+   ]
+  },
+  {
+   "ref": "G.5",
+   "family": "G",
+   "familyLabel": "Commercial et digital",
+   "label": "3 invitations (dont save the date)",
+   "order": 58,
+   "days": 1.13,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-02-02",
+    "2027-02-03"
+   ],
+   "c": [
+    "2027-02-25",
+    "2027-02-25"
+   ]
+  },
+  {
+   "ref": "G.6",
+   "family": "G",
+   "familyLabel": "Commercial et digital",
+   "label": "Habillage newsletter",
+   "order": 59,
+   "days": 0.75,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-14",
+    "2026-12-15"
+   ],
+   "c": [
+    "2027-01-14",
+    "2027-01-14"
+   ]
+  },
+  {
+   "ref": "G.7",
+   "family": "G",
+   "familyLabel": "Commercial et digital",
+   "label": "Signature e-mail",
+   "order": 60,
+   "days": 0.25,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-12-15",
+    "2026-12-15"
+   ],
+   "c": [
+    "2027-01-14",
+    "2027-01-14"
+   ]
+  },
+  {
+   "ref": "T.1",
+   "family": "T",
+   "familyLabel": "Pilotage, exécution, BAT",
+   "label": "7 points hebdomadaires",
+   "order": 61,
+   "days": 0.7,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-11-06",
+    "2026-12-18"
+   ],
+   "c": null
+  },
+  {
+   "ref": "T.2",
+   "family": "T",
+   "familyLabel": "Pilotage, exécution, BAT",
+   "label": "5 points bimensuels",
+   "order": 62,
+   "days": 0.75,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-08",
+    "2027-03-05"
+   ],
+   "c": null
+  },
+  {
+   "ref": "T.3",
+   "family": "T",
+   "familyLabel": "Pilotage, exécution, BAT",
+   "label": "3 comités",
+   "order": 63,
+   "days": 0.75,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2026-11-20",
+    "2027-02-15"
+   ],
+   "c": null
+  },
+  {
+   "ref": "T.4",
+   "family": "T",
+   "familyLabel": "Pilotage, exécution, BAT",
+   "label": "Fichiers d'exécution et BAT",
+   "order": 64,
+   "days": 2,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-03-01",
+    "2027-03-03"
+   ],
+   "c": null
+  },
+  {
+   "ref": "T.5",
+   "family": "T",
+   "familyLabel": "Pilotage, exécution, BAT",
+   "label": "Coordination imprimeurs",
+   "order": 65,
+   "days": 1,
+   "doneDays": 0,
+   "pct": 0,
+   "p": [
+    "2027-01-14",
+    "2027-03-03"
+   ],
+   "c": null
+  }
+ ],
+ "lots": [
+  {
+   "name": "Analyse et pistes",
+   "order": 1,
+   "p": [
+    "2026-11-04",
+    "2026-11-12"
+   ],
+   "w": null,
+   "c": null,
+   "send": "2026-11-20",
+   "due": "2026-11-19"
+  },
+  {
+   "name": "Base graphique",
+   "order": 2,
+   "p": [
+    "2026-11-23",
+    "2026-11-27"
+   ],
+   "w": [
+    "2026-12-07",
+    "2026-12-11"
+   ],
+   "c": [
+    "2026-12-15",
+    "2026-12-16"
+   ],
+   "send": "2026-12-04",
+   "due": "2026-12-03"
+  },
+  {
+   "name": "Signalétique",
+   "order": 3,
+   "p": [
+    "2026-11-27",
+    "2026-12-10"
+   ],
+   "w": [
+    "2026-12-16",
+    "2026-12-22"
+   ],
+   "c": [
+    "2026-12-23",
+    "2027-01-05"
+   ],
+   "send": "2026-12-15",
+   "due": "2026-12-14"
+  },
+  {
+   "name": "Présentation commerciale et digital",
+   "order": 4,
+   "p": [
+    "2026-12-10",
+    "2026-12-15"
+   ],
+   "w": [
+    "2026-12-21",
+    "2027-01-05"
+   ],
+   "c": [
+    "2027-01-13",
+    "2027-01-14"
+   ],
+   "send": "2026-12-18",
+   "due": "2026-12-17"
+  },
+  {
+   "name": "Charte, accueil, chambres",
+   "order": 5,
+   "p": [
+    "2026-12-16",
+    "2027-01-13"
+   ],
+   "w": [
+    "2027-01-18",
+    "2027-01-22"
+   ],
+   "c": [
+    "2027-01-25",
+    "2027-01-27"
+   ],
+   "send": "2027-01-15",
+   "due": "2027-01-14"
+  },
+  {
+   "name": "Spa et brochure",
+   "order": 6,
+   "p": [
+    "2027-01-18",
+    "2027-02-03"
+   ],
+   "w": [
+    "2027-02-16",
+    "2027-02-22"
+   ],
+   "c": [
+    "2027-02-23",
+    "2027-02-25"
+   ],
+   "send": "2027-02-15",
+   "due": "2027-02-12"
+  },
+  {
+   "name": "Restaurant, guinguette, activités",
+   "order": 7,
+   "p": [
+    "2027-02-03",
+    "2027-02-11"
+   ],
+   "w": [
+    "2027-02-16",
+    "2027-02-22"
+   ],
+   "c": [
+    "2027-02-25",
+    "2027-03-01"
+   ],
+   "send": "2027-02-15",
+   "due": "2027-02-12"
+  },
+  {
+   "name": "Coordination fabrication signalétique",
+   "order": 8,
+   "p": [
+    "2027-01-14",
+    "2027-01-14"
+   ],
+   "w": null,
+   "c": null,
+   "send": null,
+   "due": "2027-01-15"
+  },
+  {
+   "name": "Coordination impression",
+   "order": 9,
+   "p": [
+    "2027-03-03",
+    "2027-03-03"
+   ],
+   "w": null,
+   "c": null,
+   "send": null,
+   "due": "2027-03-05"
+  },
+  {
+   "name": "Fichiers d'exécution et BAT",
+   "order": 10,
+   "p": [
+    "2027-03-01",
+    "2027-03-03"
+   ],
+   "w": null,
+   "c": null,
+   "send": null,
+   "due": "2027-03-05"
+  }
+ ],
+ "milestones": [
+  {
+   "code": "L",
+   "label": "Lancement sur site",
+   "what": "Vision, valeurs, inventaire et priorités",
+   "date": "2026-11-03",
+   "done": false
+  },
+  {
+   "code": "C1",
+   "label": "Comité 1",
+   "what": "Choix de la piste d'identité",
+   "date": "2026-11-20",
+   "done": false
+  },
+  {
+   "code": "V1",
+   "label": "Point de validation",
+   "what": "Palette, typographies, motifs",
+   "date": "2026-12-04",
+   "done": false
+  },
+  {
+   "code": "C2",
+   "label": "Comité 2",
+   "what": "Signalétique et plan illustré, fichiers au fabricant",
+   "date": "2026-12-15",
+   "done": false
+  },
+  {
+   "code": "V2",
+   "label": "Point de validation",
+   "what": "Charte complète, supports d'accueil et chambres",
+   "date": "2027-01-15",
+   "done": false
+  },
+  {
+   "code": "C3",
+   "label": "Comité 3",
+   "what": "Restaurant, guinguette, spa, invitations",
+   "date": "2027-02-15",
+   "done": false
+  },
+  {
+   "code": "BAT",
+   "label": "Derniers BAT",
+   "what": "Tous les fichiers livrés avant l'ouverture",
+   "date": "2027-03-05",
+   "done": false
+  },
+  {
+   "code": "OUV",
+   "label": "Ouverture de l'hôtel",
+   "what": "Mars 2027, date exacte à confirmer",
+   "date": "2027-03-22",
+   "done": false
+  }
+ ]
+}
