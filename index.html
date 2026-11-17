@@ -412,10 +412,10 @@ function renderPulse(){
 }
 
 const dayPx=()=>parseInt(getComputedStyle(document.documentElement).getPropertyValue("--day"))||16;
-function ganttStart(){let a=D("2026-10-26");for(const t of S.data.tasks){const [s]=period(t);if(s&&D(s)<a)a=monday(D(s));}return a;}
+function ganttStart(){let a=D("2026-11-16");for(const t of S.data.tasks){const [s]=period(t);if(s&&D(s)<a)a=monday(D(s));}return a;}
 function renderGantt(){
   const host=$("#gantt"),d=S.data,keep=[host.scrollLeft,host.scrollTop],day=dayPx();
-  let a=ganttStart(),b=D("2027-03-28");
+  let a=ganttStart(),b=D("2027-05-02");
   for(const t of d.tasks){const [,e]=period(t);if(e&&D(e)>b)b=addDays(D(e),7);}for(const m of d.milestones){if(D(m.date)>b)b=addDays(D(m.date),7);}
   const W=(diff(a,b)+1)*day,x=s=>diff(a,D(s))*day,wd=(s,e)=>x(e)-x(s)+day;
   let months="",weeks="",cur=a;
